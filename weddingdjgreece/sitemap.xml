@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://weddingdjgreece.eu/</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://weddingdjgreece.eu/"/>
+    <xhtml:link rel="alternate" hreflang="el" href="https://weddingdjgreece.eu/el/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://weddingdjgreece.eu/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://weddingdjgreece.eu/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://weddingdjgreece.eu/es/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://weddingdjgreece.eu/it/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://weddingdjgreece.eu/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://weddingdjgreece.eu/"/>
+  </url>
+
+  <url>
+    <loc>https://weddingdjgreece.eu/el/</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://weddingdjgreece.eu/de/</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://weddingdjgreece.eu/fr/</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://weddingdjgreece.eu/es/</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://weddingdjgreece.eu/it/</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://weddingdjgreece.eu/ja/</loc>
+    <lastmod>2025-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+</urlset>
