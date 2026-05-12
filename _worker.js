@@ -14,11 +14,10 @@ export default {
   async fetch(request, env) {
     const url = new URL(request.url);
 
-    // Only handle POST to /api/send-email
-    if (request.method !== 'POST' || url.pathname !== '/api/send-email') {
-      return new Response('Not found', { status: 404 });
-    }
-
+        // Pass all non-API requests to static assets
+            if (url.pathname !== '/api/send-email') {
+                        return env.ASSETS.fetch(request);
+            }
     // CORS preflight
     if (request.method === 'OPTIONS') {
       return new Response(null, {
