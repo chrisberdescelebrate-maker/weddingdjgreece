@@ -1,6 +1,0 @@
-# Cloudflare Pages — _redirects
-# Language redirect: visitors from non-English browsers get redirected
-# (For geo-based auto-detection, use CF Worker — see _worker.js)
-
-# Default redirect for bare domain
-/  /index.html  200
