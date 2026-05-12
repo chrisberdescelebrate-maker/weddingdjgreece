@@ -12,7 +12,7 @@
   --dark-4: #2A2219;
   --cream: #F5F0E8;
   --cream-2: #EDE4D4;
-  --text-main: #EDE4D4;
+  --text-main: #EDE4D4
   --text-muted: #A8997A;
   --text-light: #F5F0E8;
   --font-serif: 'Cormorant Garamond', Georgia, serif;
@@ -199,7 +199,7 @@ a { text-decoration: none; color: inherit; }
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: linear-gradient(160deg, var(--dark-3) 0%, var(--dark) 40%, #1a1208 70%, var(--dark) 100%);
+  background: linear-gradient(160deg, rgba(13,11,8,0.85) 0%, rgba(13,11,8,0.6) 40%, rgba(26,18,8,0.7) 70%, rgba(13,11,8,0.85) 100%), url("https://pwe.gr/wp-content/uploads/2024/11/465004298_8953961097989804_4154213011652947800_n-1.jpg") center/cover no-repeat;
   z-index: 0;
 }
 .hero-bg::before {
@@ -515,11 +515,11 @@ section { padding: 7rem 0; }
 }
 .portfolio-item:hover .portfolio-img { transform: scale(1.08); }
 /* Portfolio image gradients */
-.pi-1 { background: linear-gradient(135deg, #1a0a2a 0%, #2d1545 60%, #1a0a2a 100%); }
-.pi-2 { background: linear-gradient(135deg, #0a1a2a 0%, #122840 60%, #0a1a2a 100%); }
-.pi-3 { background: linear-gradient(135deg, #0a1a0a 0%, #122812 60%, #0a1a0a 100%); }
-.pi-4 { background: linear-gradient(135deg, #1a0a0a 0%, #281212 60%, #1a0a0a 100%); }
-.pi-5 { background: linear-gradient(135deg, #1a1a0a 0%, #282812 60%, #1a1a0a 100%); }
+.pi-1 { background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://pwe.gr/wp-content/uploads/2026/03/Lazareto-Monemvasia-Basilis-Eugenia-1218.jpg") center/cover no-repeat; }
+.pi-2 { background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://pwe.gr/wp-content/uploads/2026/03/Kthma-Panagiotopoulou-Fairy-Lights-destination-wedding.jpg") center/cover no-repeat; }
+.pi-3 { background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://pwe.gr/wp-content/uploads/2023/11/Kefalonia-Gentlini-Retreat_195.jpg") center/cover no-repeat; }
+.pi-4 { background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://pwe.gr/wp-content/uploads/2022/01/Carina-Phillip-Elafonisos-13-1.jpg") center/cover no-repeat; }
+.pi-5 { background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://pwe.gr/wp-content/uploads/2023/12/Achaia-Clauss-01-1.jpg") center/cover no-repeat; }
 /* Subtle geometric overlay on portfolio */
 .portfolio-img::before {
   content: '';
