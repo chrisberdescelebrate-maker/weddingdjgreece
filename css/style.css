@@ -457,17 +457,17 @@ section { padding: 7rem 0; }
   position: relative;
 }
 /* Destination gradient overlays with unique color signatures */
-.dest-santorini { background: linear-gradient(160deg, #1a2a4a 0%, #2d3b5a 40%, #1a2a4a 100%); }
+.dest-santorini { background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800&q=80") center/cover no-repeat; }
 .dest-santorini::after { content: 'Oia · Fira · Imerovigli'; position: absolute; bottom: 12px; right: 12px; font-size: 0.6rem; color: rgba(201,168,76,0.6); letter-spacing: 0.1em; }
-.dest-mykonos { background: linear-gradient(160deg, #1a3040 0%, #224558 40%, #1a3040 100%); }
+.dest-mykonos { background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("https://images.unsplash.com/photo-1601581875309-fafbf2d3ed3a?w=800&q=80") center/cover no-repeat; }
 .dest-mykonos::after { content: 'Little Venice · Ano Mera'; position: absolute; bottom: 12px; right: 12px; font-size: 0.6rem; color: rgba(201,168,76,0.6); letter-spacing: 0.1em; }
-.dest-crete { background: linear-gradient(160deg, #1a2c1a 0%, #243a24 40%, #1a2c1a 100%); }
+.dest-crete { background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://pwe.gr/wp-content/uploads/2023/12/Achaia-Clauss-01-1.jpg") center/cover no-repeat; }
 .dest-crete::after { content: 'Chania · Heraklion · Rethymno'; position: absolute; bottom: 12px; right: 12px; font-size: 0.6rem; color: rgba(201,168,76,0.6); letter-spacing: 0.1em; }
-.dest-mani { background: linear-gradient(160deg, #2c1a0a 0%, #3a240e 40%, #2c1a0a 100%); }
+.dest-mani { background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://pwe.gr/wp-content/uploads/2025/02/Aria-Mani-String-Lights-Hero.jpg") center/cover no-repeat; }
 .dest-mani::after { content: 'Monemvasia · Gythio'; position: absolute; bottom: 12px; right: 12px; font-size: 0.6rem; color: rgba(201,168,76,0.6); letter-spacing: 0.1em; }
-.dest-kefalonia { background: linear-gradient(160deg, #0a2a2c 0%, #103840 40%, #0a2a2c 100%); }
+.dest-kefalonia { background: linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("https://pwe.gr/wp-content/uploads/2023/11/Kefalonia-Gentlini-Retreat_195.jpg") center/cover no-repeat; }
 .dest-kefalonia::after { content: 'Myrtos · Assos · Argostoli'; position: absolute; bottom: 12px; right: 12px; font-size: 0.6rem; color: rgba(201,168,76,0.6); letter-spacing: 0.1em; }
-.dest-athens { background: linear-gradient(160deg, #28201a 0%, #382e26 40%, #28201a 100%); }
+.dest-athens { background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("https://images.unsplash.com/photo-1555993539-1732b0258235?w=800&q=80") center/cover no-repeat; }
 .dest-athens::after { content: 'Acropolis · Glyfada · Kifisia'; position: absolute; bottom: 12px; right: 12px; font-size: 0.6rem; color: rgba(201,168,76,0.6); letter-spacing: 0.1em; }
 
 /* Decorative pattern for destination cards */
