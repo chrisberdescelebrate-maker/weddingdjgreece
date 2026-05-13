@@ -199,7 +199,7 @@ a { text-decoration: none; color: inherit; }
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: linear-gradient(160deg, rgba(255,255,255,0.72) 0%, rgba(255,255,255,0.5) 40%, rgba(255,248,230,0.6) 70%, rgba(255,255,255,0.72) 100%), url("https://pwe.gr/wp-content/uploads/2024/11/465004298_8953961097989804_4154213011652947800_n-1.jpg") center/cover no-repeat;
+  background: linear-gradient(160deg, rgba(255,255,255,0.18) 0%, rgba(255,255,255,0.08) 40%, rgba(255,255,255,0.08) 70%, rgba(255,255,255,0.18) 100%), url("https://pwe.gr/wp-content/uploads/2024/11/465004298_8953961097989804_4154213011652947800_n-1.jpg") center/cover no-repeat;
   z-index: 0;
 }
 .hero-bg::before {
@@ -250,7 +250,7 @@ a { text-decoration: none; color: inherit; }
   font-size: clamp(3.5rem, 8vw, 7rem);
   font-weight: 300;
   line-height: 1.05;
-  color: var(--cream);
+  color: #ffffff;
   letter-spacing: -0.01em;
   margin-bottom: 1.5rem;
   opacity: 0;
@@ -264,7 +264,7 @@ a { text-decoration: none; color: inherit; }
 .hero-subtitle {
   font-size: 1rem;
   font-weight: 300;
-  color: var(--text-muted);
+  color: rgba(255,255,255,0.88);
   max-width: 600px;
   margin: 0 auto 2.5rem;
   line-height: 1.8;
