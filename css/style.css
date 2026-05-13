@@ -463,6 +463,70 @@ section { padding: 7rem 0; }
   color: var(--gold);
   border-color: rgba(201,168,76,0.5);
 }
+/* Fairy & String Lights card background photo */
+.service-card.service-fairy {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://pwe.gr/wp-content/uploads/2026/03/destination-wedding-naupaktos-Fairy-lights-stage-lighting.jpg') center/cover no-repeat;
+  color: #ffffff;
+}
+.service-card.service-fairy h3 {
+  color: #ffffff;
+}
+.service-card.service-fairy p {
+  color: rgba(255,255,255,0.85);
+}
+.service-card.service-fairy .service-icon {
+  color: var(--gold);
+  border-color: rgba(201,168,76,0.5);
+}
+
+/* Stage Lighting card background photo */
+.service-card.service-stage {
+  background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('https://pwe.gr/wp-content/uploads/2026/03/Stage-Lighting-Destination-wedding-in-man-Brazzo-di-maina-moving-head.jpg') center/cover no-repeat;
+  color: #ffffff;
+}
+.service-card.service-stage h3 {
+  color: #ffffff;
+}
+.service-card.service-stage p {
+  color: rgba(255,255,255,0.85);
+}
+.service-card.service-stage .service-icon {
+  color: var(--gold);
+  border-color: rgba(201,168,76,0.5);
+}
+
+/* Photo Booth card background photo */
+.service-card.service-booth {
+  background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('https://pwe.gr/wp-content/uploads/2026/04/Photobooth-services-in-Greece-Patra.jpg') center/cover no-repeat;
+  color: #ffffff;
+}
+.service-card.service-booth h3 {
+  color: #ffffff;
+}
+.service-card.service-booth p {
+  color: rgba(255,255,255,0.85);
+}
+.service-card.service-booth .service-icon {
+  color: var(--gold);
+  border-color: rgba(201,168,76,0.5);
+}
+
+/* Fireworks card background photo */
+.service-card.service-fireworks {
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://pwe.gr/wp-content/uploads/2026/03/Fireworks-Destination-wedding-in-Monemvasia.jpg') center/cover no-repeat;
+  color: #ffffff;
+}
+.service-card.service-fireworks h3 {
+  color: #ffffff;
+}
+.service-card.service-fireworks p {
+  color: rgba(255,255,255,0.85);
+}
+.service-card.service-fireworks .service-icon {
+  color: var(--gold);
+  border-color: rgba(201,168,76,0.5);
+}
+
 
 
 
