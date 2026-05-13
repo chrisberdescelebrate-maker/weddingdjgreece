@@ -433,6 +433,22 @@ section { padding: 7rem 0; }
   color: var(--text-muted);
   line-height: 1.8;
 }
+/* DJ Service card background photo */
+.service-card.service-dj {
+  background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('/images/dj-service-hero.jpg') center/cover no-repeat;
+  color: #ffffff;
+}
+.service-card.service-dj h3 {
+  color: #ffffff;
+}
+.service-card.service-dj p {
+  color: rgba(255,255,255,0.85);
+}
+.service-card.service-dj .service-icon {
+  color: var(--gold);
+  border-color: rgba(201,168,76,0.5);
+}
+
 
 /* ---- DESTINATIONS GRID ---- */
 .destinations { background: var(--dark); }
