@@ -448,6 +448,22 @@ section { padding: 7rem 0; }
   color: var(--gold);
   border-color: rgba(201,168,76,0.5);
 }
+/* Premium Sound card background photo */
+.service-card.service-sound {
+  background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url('/images/premium-sound-hero.jpg') center/cover no-repeat;
+  color: #ffffff;
+}
+.service-card.service-sound h3 {
+  color: #ffffff;
+}
+.service-card.service-sound p {
+  color: rgba(255,255,255,0.85);
+}
+.service-card.service-sound .service-icon {
+  color: var(--gold);
+  border-color: rgba(201,168,76,0.5);
+}
+
 
 
 /* ---- DESTINATIONS GRID ---- */
