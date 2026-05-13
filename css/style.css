@@ -292,8 +292,8 @@ a { text-decoration: none; color: inherit; }
   font-size: 0.65rem;
   font-weight: 500;
   letter-spacing: 0.1em;
-  color: var(--text-muted);
-  border: 1px solid rgba(201,168,76,0.2);
+  color: #ffffff;
+  border: 1px solid rgba(255,255,255,0.5);
   padding: 0.4rem 0.9rem;
   text-transform: uppercase;
 }
